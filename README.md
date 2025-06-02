@@ -19,37 +19,41 @@
 ---
 
 ## 🎯 About Me
-
 <table>
   <tr>
-    <td width="50%">
-      
-## 👨🏻‍💻 **Who Am I?**
+    <td valign="top" width="55%">
 
-Hey there! I'm **Mahendra Kirana M.B** *(he/him)* - a passionate **Information Systems** student at **Universitas Hasanuddin**, Indonesia. I'm driven by the art of solving real-world problems through elegant code and building impactful applications.
+<h3>👨🏻‍💻 <strong>Who Am I?</strong></h3>
 
-### 🌱 **Currently Exploring**
-- 🤖 **Advanced Machine Learning** & Deep Learning architectures
-- 🏗️ **Microservices Architecture** & containerization
-- ☁️ **Cloud Computing** & DevOps practices
-- 🔒 **Cybersecurity** fundamentals
+Hey there! I'm <strong>Mahendra Kirana M.B</strong> <em>(he/him)</em> – a passionate <strong>Information Systems</strong> student at <strong>Universitas Hasanuddin</strong>, Indonesia. I'm driven by the art of solving real-world problems through elegant code and building impactful applications.
 
-### 🎯 **What Drives Me**
-- 🚀 Working on **innovative AI projects**
-- 🌐 Building **scalable web applications**  
-- 📱 Creating **intuitive mobile experiences**
-- 🔬 Contributing to **open-source communities**
+### 🌱 <strong>Currently Exploring</strong>
+- 🤖 <strong>Advanced Machine Learning</strong> & Deep Learning architectures  
+- 🏗️ <strong>Microservices Architecture</strong> & containerization  
+- ☁️ <strong>Cloud Computing</strong> & DevOps practices  
+- 🔒 <strong>Cybersecurity</strong> fundamentals  
 
-### 💼 **Career Goals**
-Currently seeking **internship opportunities** in:
-- 💻 **Software Engineering**
-- 📊 **Data Science & Analytics**
-- 🤖 **AI/ML Engineering**
+### 🎯 <strong>What Drives Me</strong>
+- 🚀 Working on <strong>innovative AI projects</strong>  
+- 🌐 Building <strong>scalable web applications</strong>  
+- 📱 Creating <strong>intuitive mobile experiences</strong>  
+- 🔬 Contributing to <strong>open-source communities</strong>  
 
-    </td>
-    <td width="45%">
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+### 💼 <strong>Career Goals</strong>
+Currently seeking <strong>internship opportunities</strong> in:  
+- 💻 <strong>Software Engineering</strong>  
+- 📊 <strong>Data Science & Analytics</strong>  
+- 🤖 <strong>AI/ML Engineering</strong>  
+
+</td>
+<td valign="top" width="45%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+</div>
+</td>
+</tr>
+</table>
+
         
 ### 🔥 **Coding Stats**
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyyneko&repo=EMOTICA-CODING-CAMP-ML&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&title_color=00D9FF&text_color=FFFFFF&hide_border=true" width="100%">
