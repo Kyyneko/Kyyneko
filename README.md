@@ -95,168 +95,59 @@ Currently seeking **internship opportunities** in:
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 </div>
 
+<br>
+
 ### 🧠 **AI & Machine Learning Projects**
 
-<table>
-  <tr>
-    <td width="50%">
-<details>
-<summary><b>🎭 EMOTICA - Emotion Recognition System</b></summary>
-<br>
+<div align="center">
 
-**Advanced ML capstone project** for DBS Foundation Coding Camp 2025, featuring real-time emotion recognition using deep learning.
+| 🎭 **EMOTICA - Emotion Recognition** | 😴 **Sleep Disorder Prediction API** |
+|:---:|:---:|
+| Advanced ML capstone project featuring real-time emotion recognition using deep learning | ML-powered health prediction system deployed as RESTful API |
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **🎯 94% accuracy** on emotion classification | **🎯 91% prediction** accuracy |
+| [🔗 **View Project**](https://github.com/Kyyneko/EMOTICA-CODING-CAMP-ML) | [🔗 **View Project**](https://github.com/Kyyneko/Sleep-Disorder-Predictor) |
 
-**🔥 Key Features:**
-- Real-time facial emotion detection
-- Advanced CNN architecture
-- Interactive web interface
-- Model performance optimization
-
-**🛠️ Tech Stack:**
-<br><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-
-**📊 Impact:** 94% accuracy on emotion classification
-
-[🚀 **Explore Project**](https://github.com/Kyyneko/EMOTICA-CODING-CAMP-ML)
-</details>
-    </td>
-    <td width="50%">
-<details>
-<summary><b>😴 Sleep Disorder Prediction API</b></summary>
-<br>
-
-**ML-powered health prediction system** deployed as RESTful API for predicting sleep disorders based on health metrics.
-
-**🔥 Key Features:**
-- Predictive health analytics
-- RESTful API deployment
-- Real-time predictions
-- Comprehensive health insights
-
-**🛠️ Tech Stack:**
-<br><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-**📊 Impact:** 91% prediction accuracy
-
-[🚀 **Explore Project**](https://github.com/Kyyneko/Sleep-Disorder-Predictor)
-</details>
-    </td>
-  </tr>
-</table>
+</div>
 
 ### 🌐 **Full-Stack Web Applications**
 
-<table>
-  <tr>
-    <td width="50%">
-<details>
-<summary><b>🛒 Smart E-Commerce with ML Recommendations</b></summary>
-<br>
+<div align="center">
 
-**Next-gen webstore** combining modern React frontend with Flask backend, powered by personalized ML recommendation engine.
+| 🛒 **Smart E-Commerce Platform** | 🏫 **School Management System** |
+|:---:|:---:|
+| Next-gen webstore with personalized ML recommendations | Comprehensive school information system with admin panel |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
+| **🎯 40% increase** in user engagement | **🎯 500+ students** managed |
+| [🔗 **View Project**](https://github.com/Kyyneko/WEBSTORE-WITH-ML) | [🔗 **View Project**](https://github.com/Kyyneko/WEBSITE-SEKOLAH) |
 
-**🔥 Key Features:**
-- Personalized product recommendations
-- Real-time inventory management
-- Advanced search & filtering
-- Secure payment integration
-- Admin analytics dashboard
-
-**🛠️ Tech Stack:**
-<br><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-**📊 Impact:** 40% increase in user engagement
-
-[🚀 **Explore Project**](https://github.com/Kyyneko/WEBSTORE-WITH-ML)
-</details>
-    </td>
-    <td width="50%">
-<details>
-<summary><b>🏫 School Management System</b></summary>
-<br>
-
-**Comprehensive school information system** built with Laravel, featuring admin panel, student portal, and content management.
-
-**🔥 Key Features:**
-- Multi-role authentication system
-- Student information management
-- Grade & attendance tracking
-- Content management system
-- Responsive dashboard
-
-**🛠️ Tech Stack:**
-<br><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-**📊 Impact:** Streamlined school operations for 500+ students
-
-[🚀 **Explore Project**](https://github.com/Kyyneko/WEBSITE-SEKOLAH)
-</details>
-    </td>
-  </tr>
-</table>
+</div>
 
 ### 📱 **Mobile Applications**
 
-<details>
-<summary><b>🎬 Cinepedia - Movie Discovery App</b></summary>
-<br>
+<div align="center">
 
-**Native Android application** for discovering movies and TV shows, featuring TMDB API integration with offline caching capabilities.
+| 🎬 **Cinepedia - Movie Discovery App** |
+|:---:|
+| Native Android application for discovering movies and TV shows with TMDB API integration |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **🎯 10K+ potential** user reach |
+| [🔗 **View Project**](https://github.com/Kyyneko/Cinepedia-Mobile-App) |
 
-**🔥 Key Features:**
-- Movie & TV show discovery
-- Advanced search & filtering
-- Offline mode with local caching
-- Personalized watchlist
-- Detailed movie information
-- Social sharing features
-
-**🛠️ Tech Stack:**
-<br><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
-
-**📊 Impact:** 10K+ potential user reach
-
-[🚀 **Explore Project**](https://github.com/Kyyneko/Cinepedia-Mobile-App)
-</details>
+</div>
 
 ### 📊 **Data Analytics & Visualization**
 
-<details>
-<summary><b>🌬️ Air Quality Analytics Dashboard</b></summary>
-<br>
+<div align="center">
 
-**Interactive data analytics dashboard** for visualizing air quality trends, built as part of DBS Coding Camp 2025 submission.
+| 🌬️ **Air Quality Analytics Dashboard** |
+|:---:|
+| Interactive data analytics dashboard for visualizing air quality trends |
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat-square&logo=plotly&logoColor=white) |
+| **🎯 Environmental awareness** tool for communities |
+| [🔗 **View Project**](https://github.com/Kyyneko/AirQualityDashboard) |
 
-**🔥 Key Features:**
-- Real-time air quality monitoring
-- Interactive data visualizations
-- Trend analysis & predictions
-- Multi-city comparisons
-- Export functionality
-
-**🛠️ Tech Stack:**
-<br><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-**📊 Impact:** Environmental awareness tool for communities
-
-[🚀 **Explore Project**](https://github.com/Kyyneko/AirQualityDashboard)
-</details>
+</div>
 
 ---
 
