@@ -24,7 +24,7 @@
   <tr>
     <td width="50%">
       
-### 👨🏻‍💻 **Who Am I?**
+## 👨🏻‍💻 **Who Am I?**
 
 Hey there! I'm **Mahendra Kirana M.B** *(he/him)* - a passionate **Information Systems** student at **Universitas Hasanuddin**, Indonesia. I'm driven by the art of solving real-world problems through elegant code and building impactful applications.
 
