@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Kyyneko">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=79FF97&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mahendra+Kirana+M.B;IT+Enthusiast+%26+Developer;Feel+free+to+explore." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=79FF97&center=true&vCenter=true&width=500&lines=Hai%2C+I'm+Mahendra+Kirana+M.B;IT+Enthusiast+%26+Developer;Feel+free+to+explore." alt="Typing SVG" />
   </a>
 </div>
 
