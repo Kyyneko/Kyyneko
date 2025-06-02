@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="50%">
       
 ### 👨🏻‍💻 **Who Am I?**
 
