@@ -151,12 +151,26 @@ Berikut adalah beberapa proyek yang telah saya kembangkan:
 ### 📊 Statistik & Pencapaian Saya
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyyneko&show_icons=true&theme=tokyonight&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27&border_radius=10" alt="Statistik GitHub Kyyneko" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyyneko&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=1a1b27&border_radius=10" alt="Bahasa Teratas Kyyneko" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kyyneko&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  <br>
-  <img src="https://raw.githubusercontent.com/Kyyneko/Kyyneko/main/dist/github-contribution-grid-snake-dark.svg" alt="Kontribusi GitHub"/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kyyneko&show_icons=true&theme=tokyonight&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27&border_radius=10" alt="Statistik GitHub Kyyneko" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyyneko&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=1a1b27&border_radius=10" alt="Bahasa Teratas Kyyneko" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Kyyneko&theme=tokyonight&column=7&margin-w=15&margin-h=15&exclude=stars,reviews" alt="GitHub Trophies" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/Kyyneko/Kyyneko/main/dist/github-contribution-grid-snake-dark.svg" alt="Kontribusi GitHub"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
