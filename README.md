@@ -51,8 +51,8 @@ Currently seeking **internship opportunities** in:
       <div align="center">
         <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
         
-### 📊 **Coding Activity**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kyyneko&theme=tokyonight&layout=compact&bg_color=0D1117&border_color=30A3DC&title_color=00D9FF&text_color=FFFFFF" width="100%">
+### 🔥 **Coding Stats**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyyneko&repo=EMOTICA-CODING-CAMP-ML&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&title_color=00D9FF&text_color=FFFFFF&hide_border=true" width="100%">
 
 ### 🏆 **Achievement Unlocked**
 <img src="https://github-profile-trophy.vercel.app/?username=Kyyneko&theme=tokyonight&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%">
