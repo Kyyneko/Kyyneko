@@ -207,7 +207,7 @@ Currently seeking **internship opportunities** in:
 <table>
   <tr>
     <td align="center">
-      <a href="[https://www.linkedin.com/mahendra-kirana-mb](https://www.linkedin.com/in/mahendra-kirana-m-b-a20797329)" target="_blank">
+      <a href="https://www.linkedin.com/in/mahendra-kirana-m-b-a20797329" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
         <br><b>Professional Network</b>
       </a>
