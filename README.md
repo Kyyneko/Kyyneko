@@ -207,19 +207,19 @@ Currently seeking **internship opportunities** in:
 <table>
   <tr>
     <td align="center">
-      <a href="YOUR_LINKEDIN_URL" target="_blank">
+      <a href="[https://www.linkedin.com/mahendra-kirana-mb](https://www.linkedin.com/in/mahendra-kirana-m-b-a20797329)" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
         <br><b>Professional Network</b>
       </a>
     </td>
     <td align="center">
-      <a href="mailto:YOUR_EMAIL" target="_blank">
+      <a href="mailto:mahendrakirana284@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
         <br><b>Direct Email</b>
       </a>
     </td>
     <td align="center">
-      <a href="YOUR_INSTAGRAM_URL" target="_blank">
+      <a href="https://www.instagram.com/mhendramb" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
         <br><b>Creative Side</b>
       </a>
