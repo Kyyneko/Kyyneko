@@ -56,25 +56,29 @@ const mahendra = {
 </td>
 <td width="45%" align="center">
 
+<br><br>
+
+### 🎯 What Drives Me
+
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kyyneko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B&hide_title=true&hide_rank=true&count_private=true" width="100%"/>
-
+💡 **Innovation**
 <br>
-
-<img src="https://img.shields.io/badge/💡_Innovation-00D9FF?style=flat-square&labelColor=0D1117" height="25"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_Impact-FF6B6B?style=flat-square&labelColor=0D1117" height="25"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📚_Growth-4CAF50?style=flat-square&labelColor=0D1117" height="25"/>
+<sub>Turning complex problems into elegant solutions</sub>
 
 <br><br>
 
-```
-📍 Makassar, Indonesia
-🎓 Information Systems @ UNHAS
-☕ Fueled by coffee & lo-fi beats
-```
+🚀 **Impact**
+<br>
+<sub>Building technology that matters to people</sub>
+
+<br><br>
+
+📚 **Growth**
+<br>
+<sub>Continuously learning and evolving with tech</sub>
+
+<br><br>
 
 </td>
 </tr>
