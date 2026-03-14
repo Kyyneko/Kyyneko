@@ -190,9 +190,13 @@ const mahendra = {
 <br><br>
 
 <!-- STATS + LANGS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Kyyneko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B&ring_color=00D9FF&include_all_commits=true&count_private=true&border_radius=15" alt="GitHub Stats" width="49%"/>
+<a href="https://github.com/Kyyneko">
+<img src="https://github-readme-stats.vercel.app/api?username=Kyyneko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B&ring_color=00D9FF&include_all_commits=true&count_private=true&border_radius=15" alt="GitHub Stats" height="195"/>
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyyneko&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=15" alt="Top Languages" width="38%"/>
+<a href="https://github.com/Kyyneko">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyyneko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=15" alt="Top Languages" height="195"/>
+</a>
 
 <br><br>
 
