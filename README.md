@@ -27,62 +27,19 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
 
-```js
-const mahendra = {
-    name: "Mahendra Kirana M.B",
-    location: "Makassar, Indonesia 🇮🇩",
-    education: "Information Systems @ UNHAS",
-    
-    currentFocus: [
-        "🤖 AI & Machine Learning",
-        "🌐 Full-Stack Development",
-        "📱 Mobile Applications"
-    ],
-    
-    currentlyLearning: [
-        "Advanced Neural Networks",
-        "Cloud Architecture",
-        "System Design Patterns"
-    ],
-    
-    funFact: "Can't code without music 🎧"
-};
-```
+🎓 **Fresh Graduate** in **Information Systems** from **Universitas Hasanuddin**, Makassar 🇮🇩
 
-</td>
-<td width="45%" align="center">
-
-<br><br>
-
-### 🎯 What Drives Me
+</div>
 
 <br>
 
-💡 **Innovation**
-<br>
-<sub>Turning complex problems into elegant solutions</sub>
+I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves building intelligent systems and modern web applications. Currently focused on **Machine Learning**, **Full-Stack Web Development**, and **Mobile Applications**.
 
-<br><br>
+I believe in writing clean, maintainable code and turning complex problems into elegant solutions. Always curious, always learning — whether it's exploring new neural network architectures, crafting seamless user experiences, or diving into cloud infrastructure.
 
-🚀 **Impact**
-<br>
-<sub>Building technology that matters to people</sub>
-
-<br><br>
-
-📚 **Growth**
-<br>
-<sub>Continuously learning and evolving with tech</sub>
-
-<br><br>
-
-</td>
-</tr>
-</table>
+> 💡 *"Code is poetry written in logic, and every bug is a lesson in disguise."*
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
