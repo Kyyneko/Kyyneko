@@ -54,17 +54,27 @@ const mahendra = {
 ```
 
 </td>
-<td width="45%">
-
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/geek2.gif" width="100%" alt="Coding GIF"/>
+<td width="45%" align="center">
 
 <br>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kyyneko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B&hide_title=true&hide_rank=true&count_private=true" width="100%"/>
 
-**💡 Innovation** · **🚀 Impact** · **📚 Growth**
+<br>
 
-</div>
+<img src="https://img.shields.io/badge/💡_Innovation-00D9FF?style=flat-square&labelColor=0D1117" height="25"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀_Impact-FF6B6B?style=flat-square&labelColor=0D1117" height="25"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📚_Growth-4CAF50?style=flat-square&labelColor=0D1117" height="25"/>
+
+<br><br>
+
+```
+📍 Makassar, Indonesia
+🎓 Information Systems @ UNHAS
+☕ Fueled by coffee & lo-fi beats
+```
 
 </td>
 </tr>
