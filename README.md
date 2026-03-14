@@ -208,10 +208,25 @@ const mahendra = {
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kyyneko/Kyyneko/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<br><br>
+</div>
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=Kyyneko&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" />
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"/> &nbsp;Now Playing
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31olpxkfp55bnrpwdjcxlymbhvxe&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=00D9FF&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
 
 </div>
 
