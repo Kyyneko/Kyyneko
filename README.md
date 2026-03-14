@@ -201,6 +201,15 @@ const mahendra = {
 
 <br><br>
 
+<!-- SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyyneko/Kyyneko/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyyneko/Kyyneko/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kyyneko/Kyyneko/output/dist/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br><br>
+
 <!-- TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=Kyyneko&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" />
 
