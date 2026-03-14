@@ -19,13 +19,13 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 <table>
 <tr>
@@ -56,7 +56,7 @@ const mahendra = {
 </td>
 <td width="45%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/geek2.gif" width="100%" alt="Coding GIF"/>
 
 <br>
 
@@ -72,7 +72,7 @@ const mahendra = {
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -134,7 +134,7 @@ const mahendra = {
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
@@ -180,7 +180,7 @@ const mahendra = {
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"/> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -236,7 +236,7 @@ const mahendra = {
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7cd977-31fe-4a5c-8bc2-c6c9ae25044c.png" width="30"/> &nbsp;Skills & Proficiency
+## 🎯 &nbsp;Skills & Proficiency
 
 <div align="center">
 
@@ -259,7 +259,7 @@ const mahendra = {
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c7-4a58-89c0-5aa47df3f2df.gif" width="30"/> &nbsp;Connect With Me
+## 🌐 &nbsp;Connect With Me
 
 <div align="center">
 
@@ -300,21 +300,21 @@ const mahendra = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+<h1>💡</h1>
 <br><br>
 <b>Innovation First</b>
 <br>
 <sub>Building solutions that<br>matter to people</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<h1>✨</h1>
 <br><br>
 <b>Quality Over Quantity</b>
 <br>
 <sub>Every line of code<br>tells a story</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<h1>📚</h1>
 <br><br>
 <b>Never Stop Learning</b>
 <br>
