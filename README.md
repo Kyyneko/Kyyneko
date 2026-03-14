@@ -216,7 +216,7 @@ const mahendra = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31olpxkfp55bnrpwdjcxlymbhvxe&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=00D9FF&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pkhaeebhgykqhvwko5mb6cepuq&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=00D9FF&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
